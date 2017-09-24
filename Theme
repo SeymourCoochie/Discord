@@ -1,7 +1,7 @@
 //META{"name":"Discord_Reborn","description":"A nice sleek transparent theme.","author":"Omniscient","version":"0.0"}*//
 
 /* IMPORT CSS FROM GITHUB */
-@import url("https://raw.githubusercontent.com/0mniscient/Discord-Themes/ce94de1efaf4045dc2ab2368ba64d80de24f0a1f/css/Discord%20Reborn.css");
+@import url("https://raw.githubusercontent.com/SeymourCoochie/Discord/master/CSS");
 /*
 ===== IMPORTANT =====
 CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
